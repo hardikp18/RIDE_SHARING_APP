@@ -1,2 +1,16 @@
-# RIDE_SHARING_APP
-The project builds a Ride Sharing App with Flutter and Supabase, including Google Maps integration, real-time tracking, route visualization, and anonymous sign-in. Features real-time driver tracking and car details and simulation.
+# ride_sharing_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
