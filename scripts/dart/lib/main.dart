@@ -5,11 +5,11 @@ import 'dart:convert';
 import 'package:http/http.dart' as http;
 import 'package:supabase/supabase.dart';
 
-const supabaseUrl = 'https://sbblumdodwupzglrkgmi.supabase.co';
+const supabaseUrl = 'SUPABASE_URL';
 const supabaseServiceRoleKey =
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNiYmx1bWRvZHd1cHpnbHJrZ21pIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTcyNDMyOTM5MiwiZXhwIjoyMDM5OTA1MzkyfQ.1t3Rd5eb_iH78wan861R7HCE0i-OPOCFZ3AMVl_AX5Q';
+    'SUPABASE_KEY';
 
-const googleRoutesApiKey = 'AIzaSyB1sIY5nUyAiOPK_tYVri1fy1UsnKMBJdQ';
+const googleRoutesApiKey = 'GOOGLE_API_KEY';
 
 // Replace with an actual ride ID from your database
 var rideId = 'f79131c2-4055-4f59-b993-4d7310dd6256';
